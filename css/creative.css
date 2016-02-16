@@ -533,7 +533,7 @@ img.box-scaling {
     background: url(../img/sponsorlogos/ten.png) no-repeat center center;
 }
 .pb3 {
-    background: url(../img/sponsorlogos/pentest.jpg) no-repeat center center;
+    background: url(../img/sponsorlogos/Portciscologo.jpg) no-repeat center center;
 }
 .pb4 {
     background: url(../img/sponsorlogos/gchq.png) no-repeat center center;
@@ -691,6 +691,18 @@ hr .thin {
 
 
 
+
+
+.sponsor-split {
+    border-width: 1px;
+    min-width: 92%;
+    border-color: #bbb;
+}
+
+#sponsors {
+    padding: 25px;
+}
+
 @media (max-width: 768px) { 
     
     .date {
@@ -705,4 +717,8 @@ hr .thin {
         display: block;
     }
 
+    #sponsors {
+        padding: 0px;
+    }
+    
 }
