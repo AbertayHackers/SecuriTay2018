@@ -535,6 +535,15 @@ img.box-scaling {
 .pb3 {
     background: url(../img/sponsorlogos/Portciscologo.jpg) no-repeat center center;
 }
+.pb4 {
+    background: url(../img/sponsorlogos/pentest-logo-hi%20res%20for%20print.jpg) no-repeat center center;
+}
+.pb5 {
+    background: url(../img/sponsorlogos/BT_mark_4col_pos_CS3.jpg) no-repeat center center;
+}
+.pb6 {
+    background: url(../img/sponsorlogos/cxt_logo_rgb.png) no-repeat center center;
+}
 
 .portfolio-box {
     background-size: contain;
