@@ -544,6 +544,12 @@ img.box-scaling {
 .pb6 {
     background: url(../img/sponsorlogos/cxt_logo_rgb.png) no-repeat center center;
 }
+.pb7 {
+    background: url(../img/sponsorlogos/mrw.png) no-repeat center center;
+}
+.pb8 {
+    background: url(../img/sponsorlogos/abertay.png) no-repeat center center;
+}
 
 .portfolio-box {
     background-size: contain;
