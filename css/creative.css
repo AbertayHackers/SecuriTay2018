@@ -526,6 +526,10 @@ img.box-scaling {
     margin: auto;
 }
 
+.pb1 {
+    background: url(../img/sponsorlogos/mwr.png) no-repeat center center;
+}
+
 .portfolio-box {
     background-size: contain;
 }
