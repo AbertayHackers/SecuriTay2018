@@ -526,31 +526,6 @@ img.box-scaling {
     margin: auto;
 }
 
-.pb1 {
-    background: url(../img/sponsorlogos/NCCLogo.jpg) no-repeat center center;
-}
-.pb2 {
-    background: url(../img/sponsorlogos/ten.png) no-repeat center center;
-}
-.pb3 {
-    background: url(../img/sponsorlogos/Portciscologo.jpg) no-repeat center center;
-}
-.pb4 {
-    background: url(../img/sponsorlogos/pentest-logo-hi%20res%20for%20print.jpg) no-repeat center center;
-}
-.pb5 {
-    background: url(../img/sponsorlogos/BT_mark_4col_pos_CS3.jpg) no-repeat center center;
-}
-.pb6 {
-    background: url(../img/sponsorlogos/cxt_logo_rgb.png) no-repeat center center;
-}
-.pb7 {
-    background: url(../img/sponsorlogos/MWR-Info-Logo-Colour-RGB-Hi-Res.jpg) no-repeat center center;
-}
-.pb8 {
-    background: url(../img/sponsorlogos/abertay.png) no-repeat center center;
-}
-
 .portfolio-box {
     background-size: contain;
 }
@@ -636,7 +611,7 @@ h4 > a {
 }
 
 hr .thin {
-   border: 1px; 
+   border: 1px;
 }
 
 .shed-dark {
@@ -703,12 +678,12 @@ hr .thin {
     padding: 25px;
 }
 
-@media (max-width: 768px) { 
-    
+@media (max-width: 768px) {
+
     .date {
         padding-top: 10px;
     }
-    
+
     .timeitem {
         display: block;
     }
@@ -720,5 +695,5 @@ hr .thin {
     #sponsors {
         padding: 0px;
     }
-    
+
 }
