@@ -530,6 +530,10 @@ img.box-scaling {
     background: url(../img/sponsorlogos/mwr.png) no-repeat center center;
 }
 
+.pb2 {
+    background: url(../img/sponsorlogos/ncc.jpg) no-repeat center center;
+}
+
 .portfolio-box {
     background-size: contain;
 }
