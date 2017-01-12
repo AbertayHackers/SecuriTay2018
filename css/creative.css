@@ -534,6 +534,14 @@ img.box-scaling {
     background: url(../img/sponsorlogos/ncc.jpg) no-repeat center center;
 }
 
+.pb3 {
+    background: url(../img/sponsorlogos/ecs.jpg) no-repeat center center;
+}
+
+.pb4 {
+    background: url(../img/sponsorlogos/pentest.jpg) no-repeat center center;
+}
+
 .portfolio-box {
     background-size: contain;
 }
