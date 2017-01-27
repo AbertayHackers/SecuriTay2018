@@ -542,6 +542,18 @@ img.box-scaling {
     background: url(../img/sponsorlogos/pentest.jpg) no-repeat center center;
 }
 
+.pb5 {
+    background: url(../img/sponsorlogos/secureworks.jpg) no-repeat center center;
+}
+
+.pb6 {
+    background: url(../img/sponsorlogos/ncr.png) no-repeat center center;
+}
+
+.pb7 {
+    background: url(../img/sponsorlogos/abertay.png) no-repeat center center;
+}
+
 .portfolio-box {
     background-size: contain;
 }
