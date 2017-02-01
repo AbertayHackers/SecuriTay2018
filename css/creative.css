@@ -562,6 +562,10 @@ img.box-scaling {
     background: url(../img/sponsorlogos/bt.jpg) no-repeat center center;
 }
 
+.pb10 {
+    background: url(../img/sponsorlogos/synopsys.png) no-repeat center center;
+}
+
 .portfolio-box {
     background-size: contain;
 }
