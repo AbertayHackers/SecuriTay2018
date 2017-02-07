@@ -565,6 +565,9 @@ img.box-scaling {
 .pb10 {
     background: url(../img/sponsorlogos/synopsys.png) no-repeat center center;
 }
+.pb11 {
+    background: url(../img/sponsorlogos/comptia.jpg) no-repeat center center;
+}
 
 .portfolio-box {
     background-size: contain;
