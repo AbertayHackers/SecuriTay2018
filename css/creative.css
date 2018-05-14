@@ -527,46 +527,39 @@ img.box-scaling {
 }
 
 .pb1 {
-    background: url(../img/sponsorlogos/mwr.png) no-repeat center center;
+    background: url(../img/sponsorlogos/lizardhq.png) no-repeat center center;
 }
 
 .pb2 {
-    background: url(../img/sponsorlogos/ncc.png) no-repeat center center;
+    background: url(../img/sponsorlogos/mwr.png) no-repeat center center;
 }
 
 .pb3 {
-    background: url(../img/sponsorlogos/ecs.jpg) no-repeat center center;
+    background: url(../img/sponsorlogos/lbg.png) no-repeat center center;
 }
 
 .pb4 {
-    background: url(../img/sponsorlogos/pentest.jpg) no-repeat center center;
+    background: url(../img/sponsorlogos/synopsys.png) no-repeat center center;
 }
 
 .pb5 {
-    background: url(../img/sponsorlogos/secureworks.jpg) no-repeat center center;
+    background: url(../img/sponsorlogos/ecs.jpg) no-repeat center center;
 }
 
 .pb6 {
-    background: url(../img/sponsorlogos/ncr.png) no-repeat center center;
+    background: url(../img/sponsorlogos/bsi.jpg) no-repeat center center;
 }
 
 .pb7 {
-    background: url(../img/sponsorlogos/abertay.png) no-repeat center center;
+    background: url(../img/sponsorlogos/symantec.png) no-repeat center center;
 }
 
 .pb8 {
-    background: url(../img/sponsorlogos/bsides-edinburgh.png) no-repeat center center;
+    background: url(../img/sponsorlogos/isc2.png) no-repeat center center;
 }
 
 .pb9 {
-    background: url(../img/sponsorlogos/bt.jpg) no-repeat center center;
-}
-
-.pb10 {
-    background: url(../img/sponsorlogos/synopsys.png) no-repeat center center;
-}
-.pb11 {
-    background: url(../img/sponsorlogos/comptia.jpg) no-repeat center center;
+    background: url(../img/sponsorlogos/redacted.jpeg) no-repeat center center;
 }
 
 .portfolio-box {
